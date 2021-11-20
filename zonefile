@@ -1,0 +1,5 @@
+zone "ncloud.gongsi.jp" { 
+  type forward; 
+  forward only;
+  forwarders { INBOUND_ENDPOINT_IP1;}; 
+};
