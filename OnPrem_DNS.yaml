@@ -1,4 +1,4 @@
-Description:  Route53 Hybrid DNS Demo - On-Prem CloufFormation yaml file
+Description:  Route53 Hybrid DNS Demo - On-Prem CloudFormation yaml file
 Parameters:
   LatestAmiId:
     Description: AMI for EC2 instances (default = AmaLinux Latest)
